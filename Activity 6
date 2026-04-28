@@ -1,0 +1,8 @@
+<?php
+
+$x = 5;
+$x += 3;
+
+echo $x;
+
+// The answer is 8, because of the += 3.
