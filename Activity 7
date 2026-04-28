@@ -1,0 +1,9 @@
+<?php
+$a = 10;
+$b = 5;
+var_dump($a > $b);
+var_dump($a == $b);
+?>
+
+$a > $b → 10 > 5→ true, so var_dump prints
+$a == $b → 10 == 5 → false, so var_dump prints 
